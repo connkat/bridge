@@ -2,7 +2,7 @@
 
 Congratulations on your journey into becoming a junior developer! It takes a lot of work to get this far, so please take the time to understand how much work you've already accomplished. 
 
-If you aren't the emotional type, then you can skip ahead to checking out everything in (the 3 buckets)[./buckets]. If you would like to stick around, I have some tips and tricks that I've learned throughout the years that have help myself and countless others go from lost and ready to quit to feeling energized. 
+If you aren't the emotional type, then you can skip ahead to checking out everything in [the 3 buckets](./buckets). If you would like to stick around, I have some tips and tricks that I've learned throughout the years that have help myself and countless others go from lost and ready to quit to feeling energized. 
 
 ## 3 Buckets
 I believe there are 3 main areas of focus for every soon-to-be-dev to spend their time on. How you allocate that time is entirely up to you, but it it highly advisable that you set targets for each of them in some tangible way. It is very easy to focus on one bucket while ignoring the other 2, which could leave you in a state to either not find work or not pass interviews. I'll give some examples of reasonable goals for each bucket respectively. 
@@ -11,10 +11,10 @@ I believe there are 3 main areas of focus for every soon-to-be-dev to spend thei
 Junior jobs right now are largely landed through a referral at the start. If you are cold applying to a linkedin or indeed post alongside 750+ others, it is going to be very difficult to stand out without a referral to get you into that first round. (Check out this bucket)[buckets/bucket-1/networking.md] to understand more about how to create a plan that will help you maximize your time. 
 
 ### Bucket 2: Projects
-All grads need to have projects on their resume if they want to be considered for a junior developer role. Coming up with ideas, hosting, building MVPs, scope, and techstack are all things that you will decide--(this bucket)[buckets/bucket-2/projects.md] will be a guide to help you get started on figuring out how to even start. 
+All grads need to have projects on their resume if they want to be considered for a junior developer role. Coming up with ideas, hosting, building MVPs, scope, and techstack are all things that you will decide--[this bucket](buckets/bucket-2/projects.md) will be a guide to help you get started on figuring out how to even start. 
 
 ### Bucket 3: Code Practice
-This is a much-dreaded bucket, and I can admit that I hid from it for a long time. While going through leetcode examples can be soul-sucking, I have some advice that helped me go from writing sub-par repetitive code to upgrading my syntax and language knowledge, just through using leetcode and hackerrank a bit differently than expected. Don't believe me? (Check out Bucket #3)[buckets/bucket-3/code-practice.md] to see for yourself.
+This is a much-dreaded bucket, and I can admit that I hid from it for a long time. While going through leetcode examples can be soul-sucking, I have some advice that helped me go from writing sub-par repetitive code to upgrading my syntax and language knowledge, just through using leetcode and hackerrank a bit differently than expected. Don't believe me? [Check out Bucket #3](buckets/bucket-3/code-practice.md) to see for yourself.
 
 ## Get into the right mindset
 Before you learned to code, I could safely bet that in your previous job, you were barely incorrect. If you worked as a server, you probably had no problems taking orders, assisting guests, or working with the kitchen. But when you start coding, by default you will be incorrect 9/10 times before you get it right. You need to get into the mindset of a toddler. When a toddler is learning to speak, they might call `an apple`, `a banana`. You would correct them and no one would think anything of it, because that is how you learn. As adults, it is very hard to accept when we are wrong, because we are used to being fairly consistently correct in our daily lives. 
